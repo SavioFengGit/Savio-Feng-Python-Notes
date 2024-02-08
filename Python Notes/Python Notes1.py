@@ -1,4 +1,4 @@
-# Savio Feng's Python Note
+# Savio Feng's Python Notes
 
 
 # Variables, single quotes or double quotes, the type assigned automatically
