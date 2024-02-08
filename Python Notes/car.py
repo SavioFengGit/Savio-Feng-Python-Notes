@@ -12,3 +12,7 @@ class Car:
 
     def stop(self):
         print("This " + self.model + " is stopped")
+
+
+
+#Author Xiao Li Savio Feng
