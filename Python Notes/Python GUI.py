@@ -1113,3 +1113,4 @@ update()
 # Avvia il ciclo principale della GUI
 window.mainloop()
 
+#Author Xiao Li Savio Feng
