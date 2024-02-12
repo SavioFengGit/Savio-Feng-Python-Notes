@@ -10,6 +10,9 @@ Python was created by Guido van Rossum in the late 1980s and released in 1991. T
 
 
 
+## Advice:
+ - set the environment variable by entering the path to the python folder
+ - to run pip commands you need to be in the python scripts folder (where there is pip.exe)
 
 #Author
 <b>Xiao Li Savio Feng</b>
